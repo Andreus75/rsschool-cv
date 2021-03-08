@@ -1,0 +1,32 @@
+body {
+    background: black;
+    display: flex;
+}
+main {
+    margin: auto;
+    width: 50%;
+    background: rgb(194, 43, 17);
+    border-radius: 5px;
+}
+figure {
+    border: 2px solid thistle;
+    border-radius: 50%;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+header {
+    display: flex;
+}
+section {
+    font-size: large;
+}
+section h3 {
+    text-align: center;
+}
+
